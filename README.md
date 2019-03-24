@@ -1,2 +1,2 @@
 # 3D-Models
-3D models made in MAYA
+Here are some of my 3D models made using Autodesk MAYA. Many of them are still incomplete and I'm still working on them.
